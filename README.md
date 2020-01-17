@@ -38,5 +38,8 @@ The notebook is also available inside this repository [here](./ETL_Project.ipynb
 
 * Python
 * Pandas library
+* Splinter library
+* Flask
+* Beautifulsoup 
 * PostgreSQL 
 * Jupyter Notebook
